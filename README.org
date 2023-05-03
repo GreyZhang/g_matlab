@@ -5,3 +5,4 @@ MATLAB也曾经是我每天最常用的工具，但是工作性质的变化导�
 ** 学习笔记
 - [[https://blog.csdn.net/grey_csdn/article/details/130308194][1686_MATLAB处理Excel文件]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130373402][1689_MATLAB处理Excel文件提升篇]]
+- [[https://blog.csdn.net/grey_csdn/article/details/130479742][1699_simulink代码生成配置初级方案]]
