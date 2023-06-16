@@ -14,3 +14,4 @@ MATLAB也曾经是我每天最常用的工具，但是工作性质的变化导�
 - [[https://blog.csdn.net/grey_csdn/article/details/130917288][1724_simulink一维查表功能实现以及代码生成]]
 - [[https://blog.csdn.net/grey_csdn/article/details/131100557][1735_MATLAB 2011与2014数据管理上一点小差异]]
 - [[https://blog.csdn.net/grey_csdn/article/details/131150510][1738_创建自己的simulink模块库]]
+- [[https://blog.csdn.net/grey_csdn/article/details/131254103][1743_MATLAB 2-D绘图小结]]
