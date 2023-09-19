@@ -17,3 +17,4 @@ MATLAB也曾经是我每天最常用的工具，但是工作性质的变化导�
 - [[https://blog.csdn.net/grey_csdn/article/details/131254103][1743_MATLAB 2-D绘图小结]]
 - [[https://greyzhang.blog.csdn.net/article/details/132645891][1783_CMD启动MATLAB同时执行一个脚本]]
 - [[https://blog.csdn.net/grey_csdn/article/details/133040652][1786_MTALAB代码生成把通用函数生成独立文件]]
+- [[https://blog.csdn.net/grey_csdn/article/details/133040827][1788_通过CMD命令行启动操作MATLAB]]
